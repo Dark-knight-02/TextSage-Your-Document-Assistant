@@ -17,15 +17,15 @@ st.set_page_config(
     layout="wide", 
 )
 
-# Hide Streamlit style elements for a cleaner look
-hide_st_style = """
-            <style>
-            #MainMenu {visibility: hidden;}
-            footer {visibility: hidden;}
-            header {visibility: hidden;}
-            </style>
-            """
-st.markdown(hide_st_style, unsafe_allow_html=True)
+# # Hide Streamlit style elements for a cleaner look
+# hide_st_style = """
+#             <style>
+#             #MainMenu {visibility: hidden;}
+#             footer {visibility: hidden;}
+#             header {visibility: hidden;}
+#             </style>
+#             """
+# st.markdown(hide_st_style, unsafe_allow_html=True) 
 
 
 # Sidebar with assistant description and instructions
