@@ -2,6 +2,8 @@
 
 TextSage is a cutting-edge tool designed to enhance text processing and analysis capabilities by leveraging advanced machine learning models and frameworks.
 
+![TextSage Interface](https://github.com/Dark-knight-02/TextSage-Your-Document-Assistant/blob/main/media/Coverpage.png)
+
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
@@ -96,6 +98,25 @@ Before launching the application, make sure you have the following prerequisites
     Network URL: http://192.168.x.x:8501
     ```
   - Open a web browser of your choice and visit `http://localhost:8501` to interact with TextSage.
+
+
+## Demonstrations
+
+### Interface Overview
+
+
+### Feature Demonstrations
+
+#### Chat Feature Demo
+[![Watch the Chat Feature Demo](https://github.com/Dark-knight-02/TextSage-Your-Document-Assistant/blob/main/media/Chat.webm)
+
+#### Model Change Feature Demo
+[![Watch the Model Change Demo](https://github.com/yourusername/TextSage/assets/thumbnail2.jpg)](https://github.com/yourusername/TextSage/assets/Model%20change.webm)
+
+#### Clear Function Demo
+[![Watch the Clear Function Demo](https://github.com/yourusername/TextSage/assets/thumbnail3.jpg)](https://github.com/yourusername/TextSage/assets/Clear.webm)
+
+  
 
 ## Troubleshooting
 
