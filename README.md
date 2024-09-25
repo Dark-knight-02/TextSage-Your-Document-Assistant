@@ -102,19 +102,21 @@ Before launching the application, make sure you have the following prerequisites
 
 ## Demonstrations
 
-### Interface Overview
-
-
 ### Feature Demonstrations
 
 #### Chat Feature Demo
-[![Watch the Chat Feature Demo](https://github.com/Dark-knight-02/TextSage-Your-Document-Assistant/blob/main/media/Chat.webm)
+![Watch the Chat Feature Demo](https://github.com/user-attachments/assets/499d457f-d2b1-4e51-9b5b-66910566097d)
 
-#### Model Change Feature Demo
-[![Watch the Model Change Demo](https://github.com/yourusername/TextSage/assets/thumbnail2.jpg)](https://github.com/yourusername/TextSage/assets/Model%20change.webm)
+
+#### Model Change Feature Demo[Model change.webm](https://github.com/user-attachments/assets/69078b4f-37b6-44a6-9b8b-966075232808)
+
+
+![Watch the Model Change Demo](https://github.com/user-attachments/assets/f586adad-5af0-4896-ab71-d61610990073)
+
+
 
 #### Clear Function Demo
-[![Watch the Clear Function Demo](https://github.com/yourusername/TextSage/assets/thumbnail3.jpg)](https://github.com/yourusername/TextSage/assets/Clear.webm)
+![Watch the Clear Function Demo](https://github.com/user-attachments/assets/76337178-e164-4aad-b152-07b25f7af911)
 
   
 
