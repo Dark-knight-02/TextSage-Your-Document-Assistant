@@ -108,7 +108,7 @@ Before launching the application, make sure you have the following prerequisites
 ![Watch the Chat Feature Demo](https://github.com/user-attachments/assets/499d457f-d2b1-4e51-9b5b-66910566097d)
 
 
-#### Model Change Feature Demo[Model change.webm](https://github.com/user-attachments/assets/69078b4f-37b6-44a6-9b8b-966075232808)
+#### Model Change Feature Demo
 
 
 ![Watch the Model Change Demo](https://github.com/user-attachments/assets/f586adad-5af0-4896-ab71-d61610990073)
